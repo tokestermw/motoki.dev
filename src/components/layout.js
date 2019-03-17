@@ -11,7 +11,7 @@ import { StaticQuery, graphql } from "gatsby"
 import CardHeader from '@material-ui/core/CardHeader';
 import Grid from '@material-ui/core/Grid'
 
-import Header from "./header"
+// import Header from "./header"
 import "./layout.css"
 
 const Layout = ({ children }) => (
